@@ -62,25 +62,21 @@ Led the team that designed the accumulator pack and container and the electrical
 
 ## Stack
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,flask,mongodb,azure,docker,githubactions,linux,git&theme=light">
-    <img src="https://skillicons.dev/icons?i=python,flask,mongodb,azure,docker,githubactions,linux,git" alt="Python, Flask, MongoDB, Azure, Docker, GitHub Actions, Linux, Git">
-  </picture>
-  <br>
-  <sub>Python · Flask · MongoDB · Azure · Docker · GitHub Actions · Linux · Git</sub>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,nodejs,electron,c,cpp,arduino&theme=light">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,electron,c,cpp,arduino" alt="JavaScript, Node.js, Electron, C, C++, Arduino">
-  </picture>
-  <br>
-  <sub>JavaScript · Node.js · Electron · C · C++ · Arduino (ESP32)</sub>
-</p>
-
-<p align="center"><b>Protocols:</b> OCPP · CAN · MQTT · WebSocket · UART</p>
+**Protocols:** OCPP, CAN, MQTT, WebSocket, UART
 
 ## Public projects
 
